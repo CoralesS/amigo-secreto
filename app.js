@@ -3,13 +3,23 @@
 // Array para almacenar los nombres
 let nombres = [];
 
-// funcion agregar nombres
-function agregarNombres() {
+// funcion agregar amigo
+function agregarAmigo() {
 
-    
+    let nombreAmigo = document.getElementById('amigo').value;
+
+    nombres.push(nombreAmigo);
 }
 
-// funcion general de inicio
-function estadoInicial() {
+// funcion actualizar amigos
+function actualizarListaAmigos() {
+    let elementoHTML = document.getElementById('listaAmigos');
     
+    elementoHTML.innerHTML =`<div>${nombres}</div>`;
+
+   
+    
+
 }
+
+actualizarListaAmigos();
