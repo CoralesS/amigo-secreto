@@ -13,7 +13,7 @@
 
 <h2>DEMOSTRACIÓN DE FUNCIONES Y APLICACIONES</h2>
 
-![Video del funcionamiento del proyecto](https://github.com/user-attachments/assets/3a20d361-cbfc-4ab2-99d6-f7d3c68c741f)
+https://github.com/user-attachments/assets/3a20d361-cbfc-4ab2-99d6-f7d3c68c741f
 
 <h2>CONCIDERACIONES FINALES</h2>
 <p> Aprovecho este espacio para agredecer a los ingerieros Christian Velasco y Leonardo Castillo quienes fueron los maestros que me brindaron conocimiento en el curso de Lógica de Programación en Alura Latam, el cual fue fundamental para poder realizar este challenge, estoy muy agradecido por los conocimientos que llegué adquirir y espero seguir aprendiendo mucho más</p>
