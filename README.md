@@ -15,5 +15,5 @@
 
 ![Gif que muestra el funcionamiento del progrma](https://github.com/user-attachments/assets/f5355a2d-13f5-4160-a44b-2e0f0d4d84a9)
 
-<h2>CONCIDERACIONES FINALES</h2>
+<h2>CONSIDERACIONES FINALES</h2>
 <p> Aprovecho este espacio para agredecer a los ingerieros Christian Velasco y Leonardo Castillo quienes fueron los maestros que me brindaron conocimiento en el curso de Lógica de Programación en Alura Latam, el cual fue fundamental para poder realizar este challenge, estoy muy agradecido por los conocimientos que llegué adquirir y espero seguir aprendiendo mucho más</p>
