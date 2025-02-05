@@ -13,8 +13,7 @@
 
 <h2>DEMOSTRACIÓN DE FUNCIONES Y APLICACIONES</h2>
 
-
-![Íconos de los leguajes utilizados](https://s19.aconvert.com/convert/p3r68-cdx67/m1ulx-197v3.gif)
+![Gif que muestra el funcionamiento del progrma](https://github.com/user-attachments/assets/68fa59d8-a155-4d7b-bac0-3ffadd5bdf7d)
 
 <h2>CONCIDERACIONES FINALES</h2>
 <p> Aprovecho este espacio para agredecer a los ingerieros Christian Velasco y Leonardo Castillo quienes fueron los maestros que me brindaron conocimiento en el curso de Lógica de Programación en Alura Latam, el cual fue fundamental para poder realizar este challenge, estoy muy agradecido por los conocimientos que llegué adquirir y espero seguir aprendiendo mucho más</p>
